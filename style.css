@@ -5,6 +5,9 @@
  
     
 }
+body{
+    background-color: blanchedalmond;
+}
 tr:nth-child(even){
     background-color: #dddddd;
 }
